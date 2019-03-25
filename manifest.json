@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "GitHub Toggle",
   "version": "1.0",
-  "description": "Toggle between Repo and GitHub pages",
+  "description": "Quickly toggle between a GitHub Repo and its GitHub Pages by the click of a button",
   "author": "Bramus Van Damme",
   "icons" : {
     "128" : "github-128.png"
