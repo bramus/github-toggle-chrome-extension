@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Github Toggle",
+  "name": "GitHub Toggle",
   "version": "1.0",
   "description": "Toggle between Repo and GitHub pages",
   "author": "Bramus Van Damme",
@@ -13,7 +13,7 @@
   },
   "browser_action": {
     "default_icon": "github-128.png",
-    "default_title": "Toggle between Github Repo and GitHub Pages"
+    "default_title": "Toggle between GitHub Repo and GitHub Pages"
   },
   "permissions": [
      "tabs"
